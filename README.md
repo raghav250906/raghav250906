@@ -7,14 +7,14 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-rana-/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavrana2509)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raghavrana2509)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/raghavrana2509)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav250906)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raghav250906)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/raghav250906)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavrana2509@gmail.com)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=raghavrana2509&style=flat-square&color=2c5364&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=raghav250906&style=flat-square&color=2c5364&label=Profile+Views)
 
 </div>
 
@@ -113,12 +113,17 @@ An end-to-end machine learning system for traffic analysis and prediction. Cover
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghavrana2509&show_icons=true&theme=dark&bg_color=0f2027&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavrana2509&layout=compact&theme=dark&bg_color=0f2027&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghav250906&show_icons=true&theme=dark&bg_color=0f2027&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav250906&layout=compact&theme=dark&bg_color=0f2027&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavrana2509&theme=dark&background=0f2027&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&border=30363d" />
+<img src="https://streak-stats.demolab.com/?user=raghav250906&theme=dark&background=0f2027&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&border=30363d&stroke=30363d" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav250906&theme=react-dark&bg_color=0f2027&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="96%" />
 
 </div>
 
@@ -155,12 +160,6 @@ An end-to-end machine learning system for traffic analysis and prediction. Cover
 - 📜 **Oracle Academy** — Java for AP Computer Science A
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavrana2509&theme=react-dark&bg_color=0f2027&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%" />
-
-</div>
 
 <div align="center">
 
