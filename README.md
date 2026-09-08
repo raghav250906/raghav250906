@@ -127,7 +127,7 @@ Built Stadium AI, a working conversational-assistant prototype, under competitio
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav250906&theme=react-dark&bg_color=0f2027&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="96%" />
+<sub>Contribution activity is visible on the profile's native contribution graph below.</sub>
 
 </div>
 
