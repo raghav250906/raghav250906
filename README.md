@@ -121,9 +121,9 @@ Built Stadium AI, a working conversational-assistant prototype, under competitio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghav250906&show_icons=true&theme=dark&bg_color=0f2027&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=raghav250906&show_icons=true&theme=dark&bg_color=0f2027&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&count_private=true&hide_border=false" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav250906&layout=compact&theme=dark&bg_color=0f2027&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raghav250906&layout=compact&theme=dark&bg_color=0f2027&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false" />
 
 <br/><br/>
 
